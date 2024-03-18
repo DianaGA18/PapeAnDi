@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "321050365223",
+    "project_id": "papeandi-3984e",
+    "storage_bucket": "papeandi-3984e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321050365223:android:e51dda51368c02c7fe6d02",
+        "android_client_info": {
+          "package_name": "com.tesji.papeandi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9xBY1l8Hm9gAVH7OmYTcfVBT37tgUOiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

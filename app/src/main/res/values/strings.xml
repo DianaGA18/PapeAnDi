@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PapeAnDi</string>
+    <string name="strCrear_Cuenta"><u>Crear Cuenta</u></string>
+    <string name="strOlvideC"><u>Olvide Contraseña</u></string>
+</resources>
